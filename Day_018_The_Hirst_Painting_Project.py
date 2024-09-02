@@ -1,5 +1,3 @@
-###This code will not work in repl.it as there is no access to the colorgram package here.###
-##We talk about this in the video tutorials##
 from turtle import Screen
 
 import colorgram
@@ -45,11 +43,10 @@ def test():
         draw_dot()
     make_a_right_turn()
 
+t.setheading(200)
+t.penup()
+t.forward(300)
+t.setheading(0)
+
 for i in range (5):
     test()
-
-
-
-
-screen = Screen()
-screen.exitonclick()
