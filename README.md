@@ -32,7 +32,7 @@ final= round(totalbill/ppl,2)
 
 print(f"Each person should pay: ${final}")
 ``` 
-**2. Control Flow and Logical Operators** (:angel:Project Hangman)
+**2. Control Flow and Logical Operators** ( :angel:Project Hangman)
 ```python
 import random
 from hangman_art import stages, logo
@@ -80,7 +80,7 @@ while not game_over:
         print('****************************YOU WIN****************************')
     print(stages[lives])
 ```
-**3. Randomisation, Loops and Lists** (:jack_o_lantern:Project Caesar Cipher)
+**3. Randomisation, Loops and Lists** ( :jack_o_lantern:Project Caesar Cipher)
 ```python
 from caesar_cipher_art import logo
 print(logo)
@@ -116,7 +116,7 @@ while not game_over:
         game_over = True
         print('Goodbye.')
 ```
-**4. Dictionary and Scopes** (:mahjong:Project Blackjack)
+**4. Dictionary and Scopes** ( :mahjong:Project Blackjack)
 ```python
 #Our Blackjack Game House Rules
 #The deck is unlimited in size.
@@ -205,7 +205,7 @@ if starter =='y':
 
 ### :bulb: Intermediate:
 
-**1. Object Oriented Programming (OOP)** (:clipboard:Project Quiz)
+**1. Object Oriented Programming (OOP)** ( :clipboard:Project Quiz)
 
 ```python
 from question_model import Question
@@ -227,7 +227,7 @@ while quiz.still_has_questions():
 print("You've completed the quiz.")
 print(f'Your final score was: {quiz.score}/{len(quiz.question_list)}')    
 ```
-**2. Graphical User Interface (GUI) (:turtle:Project Turtle)**
+**2. Graphical User Interface (GUI) ( :turtle:Project Turtle)**
 ```python
 import turtle as t
 import random
