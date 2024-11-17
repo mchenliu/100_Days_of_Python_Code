@@ -1,5 +1,5 @@
 # Introduction
-:bug: This project records my on going Python learning journey following [Angela Yu's course](https://www.udemy.com/course/100-days-of-code).
+:bug: This project records my on going Python learning journey following Angela Yu's [course](https://www.udemy.com/course/100-days-of-code).
 
 :computer: Python codes? Check them out here: [python_project folder](/python_project/)
 
