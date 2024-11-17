@@ -1,12 +1,12 @@
 # Introduction
-:bug: This project records my on going Python learning journey following [Angela Yu's course](https://www.udemy.com/course/100-days-of-code)
+:bug: This project records my on going Python learning journey following [Angela Yu's course](https://www.udemy.com/course/100-days-of-code).
 
 :computer: Python codes? Check them out here: [python_project folder](/python_project/)
 
 # The goal I wanted to achieve through my Python journey are:
 
-1. :page_with_curl: Demonstrate my Python skills
-2. :microscope: Land on a data analyst role
+1. :page_with_curl: Demonstrate my Python skills.
+2. :microscope: Land on a data analyst role.
 
 # Tools I Used
 - **Python:** The backbone of this project, allow me to import packages and write codes.
