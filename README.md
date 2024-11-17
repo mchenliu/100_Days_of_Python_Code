@@ -19,7 +19,7 @@
 
 :mag: The basics: 
 
-    1. Variable and data types (Project Tip Calculator)
+    1. Variable and Data Types (Project Tip Calculator)
     
 ```python
 print("Welcome to the tip calculator!")
@@ -32,7 +32,7 @@ final= round(totalbill/ppl,2)
 
 print(f"Each person should pay: ${final}")
 ``` 
-    2. Control flow and logical operators (Project Hangman)
+    2. Control Flow and Logical Operators (Project Hangman)
 ```python
 import random
 from hangman_art import stages, logo
@@ -80,7 +80,7 @@ while not game_over:
         print('****************************YOU WIN****************************')
     print(stages[lives])
 ```
-    3. Randomisation, loops and lists
+    3. Randomisation, Loops and Lists
 ```python
 from caesar_cipher_art import logo
 print(logo)
@@ -116,7 +116,7 @@ while not game_over:
         game_over = True
         print('Goodbye.')
 ```
-    4. Dictionary and scopes (Project Blackjack)
+    4. Dictionary and Scopes (Project Blackjack)
 ```python
 #Our Blackjack Game House Rules
 #The deck is unlimited in size.
