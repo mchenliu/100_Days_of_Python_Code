@@ -19,7 +19,7 @@
 
 ### :mag: The basics: 
 
-**1. Variable and Data Types** (:beers: Project Tip Calculator)
+**1. Variable and Data Types** ( :beers: Project Tip Calculator)
     
 ```python
 print("Welcome to the tip calculator!")
