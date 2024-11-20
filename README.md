@@ -1,3 +1,13 @@
+# Table of Contents
+- [Table of Contents](#table-of-contents)
+- [Introduction](#introduction)
+- [The goal I wanted to achieve through my Python journey are:](#the-goal-i-wanted-to-achieve-through-my-python-journey-are)
+- [Tools I Used](#tools-i-used)
+- [What I Learned](#what-i-learned)
+    - [:mag: The basics:](#mag-the-basics)
+    - [:bulb: Intermediate:](#bulb-intermediate)
+- [Conclusions](#conclusions)
+
 # Introduction
 :bug: This project records my on going Python learning journey following Angela Yu's [course on Udemy](https://www.udemy.com/course/100-days-of-code).
 
@@ -288,8 +298,4 @@ screen.exitonclick()
 
 # Conclusions
 
-This is an on-going project. 
-
-### Closing Thoughts
-
-Continous learning is a must to achieve goals in this area.
+This is an on-going project. Continous learning is a must to achieve my goal.
