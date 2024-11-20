@@ -6,7 +6,7 @@
 - [What I Learned](#what-i-learned)
     - [:mag: The basics:](#mag-the-basics)
     - [:bulb: Intermediate:](#bulb-intermediate)
-- [Conclusions](#conclusions)
+- [Conclusion](#conclusion)
 
 # Introduction
 :bug: This project records my on going Python learning journey following Angela Yu's [course on Udemy](https://www.udemy.com/course/100-days-of-code).
@@ -296,6 +296,6 @@ screen=Screen()
 screen.exitonclick()
 ```
 
-# Conclusions
+# Conclusion
 
 This is an on-going project. Continous learning is a must to achieve my goal.
